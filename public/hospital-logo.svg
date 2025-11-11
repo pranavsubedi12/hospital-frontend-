@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Base/Foundation (green layers) -->
+  <ellipse cx="100" cy="170" rx="90" ry="15" fill="#2E7D32" opacity="0.7"/>
+  <ellipse cx="100" cy="165" rx="80" ry="12" fill="#43A047" opacity="0.8"/>
+  <ellipse cx="100" cy="160" rx="70" ry="10" fill="#66BB6A"/>
+  
+  <!-- Building Base -->
+  <rect x="40" y="100" width="120" height="60" fill="#0288D1" stroke="#01579B" stroke-width="3"/>
+  
+  <!-- Windows on sides -->
+  <rect x="48" y="108" width="12" height="15" fill="#4FC3F7"/>
+  <rect x="48" y="130" width="12" height="15" fill="#4FC3F7"/>
+  
+  <rect x="140" y="108" width="12" height="15" fill="#4FC3F7"/>
+  <rect x="140" y="130" width="12" height="15" fill="#4FC3F7"/>
+  
+  <!-- Center Tower -->
+  <rect x="70" y="40" width="60" height="80" fill="#00ACC1" stroke="#006064" stroke-width="3"/>
+  
+  <!-- Center Windows (Yellow) -->
+  <rect x="82" y="50" width="12" height="15" fill="#FDD835"/>
+  <rect x="106" y="50" width="12" height="15" fill="#FDD835"/>
+  <rect x="82" y="70" width="12" height="15" fill="#FDD835"/>
+  <rect x="106" y="70" width="12" height="15" fill="#FDD835"/>
+  <rect x="82" y="90" width="12" height="15" fill="#FDD835"/>
+  <rect x="106" y="90" width="12" height="15" fill="#FDD835"/>
+  
+  <!-- Roof -->
+  <polygon points="100,20 55,50 145,50" fill="#01579B" stroke="#01579B" stroke-width="2"/>
+  
+  <!-- Circular entrance badge -->
+  <circle cx="100" cy="120" r="30" fill="#0288D1" stroke="#006064" stroke-width="3"/>
+  <circle cx="100" cy="120" r="25" fill="#E3F2FD"/>
+  
+  <!-- Medical Cross -->
+  <rect x="95" y="108" width="10" height="24" fill="#D32F2F"/>
+  <rect x="88" y="115" width="24" height="10" fill="#D32F2F"/>
+  
+  <!-- Door -->
+  <rect x="90" y="140" width="20" height="20" fill="#4FC3F7"/>
+  
+  <!-- Outer circle border -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#01579B" stroke-width="4"/>
+</svg>
