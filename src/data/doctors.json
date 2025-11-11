@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Sarah Johnson",
+    "department": "Cardiology",
+    "specialization": "Heart and Vascular Care"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Michael Lee",
+    "department": "Neurology",
+    "specialization": "Brain and Nerve Disorders"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Priya Mehta",
+    "department": "Pediatrics",
+    "specialization": "Child Health and Immunization"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Ahmed Khan",
+    "department": "Orthopedics",
+    "specialization": "Bone and Joint Care"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Emily Carter",
+    "department": "Dermatology",
+    "specialization": "Skin and Cosmetic Treatments"
+  }
+]
