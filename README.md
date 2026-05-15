@@ -55,3 +55,14 @@ public/          # Static assets
 
 ---
 
+## 📦 Build for Production
+
+```bash
+npm run build
+npm run start
+```
+
+---
+
+
+
