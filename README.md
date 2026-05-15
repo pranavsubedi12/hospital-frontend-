@@ -64,5 +64,23 @@ npm run start
 
 ---
 
+## 🚀 Deployment
+
+Deploy easily using [Vercel](https://vercel.com/).
+
+```bash
+vercel
+```
+
+---
+
+## 📖 Learn More
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Next.js GitHub](https://github.com/vercel/next.js)
+
+---
+
+
 
 
