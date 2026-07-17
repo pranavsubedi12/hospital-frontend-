@@ -9,7 +9,6 @@ This application helps manage patients, doctors, appointments, billing, and hosp
 
 - Patient & doctor management
 - Appointment scheduling
-- Billing interface
 - Secure authentication
 - Responsive dashboard UI
 - Fast performance with Next.js
