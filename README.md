@@ -21,7 +21,7 @@ This application helps manage patients, doctors, appointments, billing, and hosp
 - Next.js
 - React
 - TypeScript
-- Tailwind CSS *(if used)*
+- Tailwind CSS 
 
 ---
 
