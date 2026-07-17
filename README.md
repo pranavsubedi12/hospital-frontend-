@@ -19,7 +19,6 @@ This application helps manage patients, doctors, appointments, billing, and hosp
 ## 🛠️ Tech Stack
 
 - Next.js
-- React
 - TypeScript
 - Tailwind CSS 
 
